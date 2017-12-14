@@ -1,0 +1,24 @@
+sil NI I H AO XI AO Z IH sil
+sil NI I H AO XI AO Z IH sil
+standard:0.375, pErr:0.0 True
+
+sil NI I H AO XI AO Z IH sil
+sil NI I H AO XI AO Z IH sil
+standard:0.375, pErr:0.0 True
+
+sil NI I H AO XI AO Z IH sil
+sil NI I L AO XI AO Z IH sil
+standard:0.375, pErr:0.125 True
+
+sil NI I H AO XI AO Z IH sil
+sil NI I H AO XI AO Z IH sil
+standard:0.375, pErr:0.0 True
+
+sil NI I H AO XI AO Z IH sil
+sil NI I H AO XI AO Z IH sil
+standard:0.375, pErr:0.0 True
+
+sil NI I H AO XI AO Z IH sil
+sil NI I H AO XI AG Z IH sil
+standard:0.375, pErr:0.125 True
+

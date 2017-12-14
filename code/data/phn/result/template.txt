@@ -1,0 +1,9 @@
+[0, 42, 25, 23, 5, 63, 5, 67, 28, 0]
+sil NI I H AO XI AO Z IH sil
+
+[0, 42, 25, 23, 5, 63, 5, 67, 28, 0]
+sil NI I H AO XI AO Z IH sil
+
+[0, 42, 25, 23, 5, 63, 5, 67, 67, 28, 0]
+sil NI I H AO XI AO Z Z IH sil
+
